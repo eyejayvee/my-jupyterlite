@@ -45,6 +45,11 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Python: plotting libraries (optional)
+numpy >=1.11
+pandas >=0.20.0
+patsy >=0.5
+scipy >=0.18
+statsmodels >=0.9.0
 nbformat
 tenacity >=6.2.0
 plotly>=5,<6
