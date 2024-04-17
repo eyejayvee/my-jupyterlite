@@ -46,5 +46,5 @@ ipyleaflet
 
 # Python: plotting libraries (optional)
 plotly==5.20.0 #>=5,<6
-#plotly_express
+plotly_express
 bqplot
