@@ -45,6 +45,7 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Python: plotting libraries (optional)
+nbformat
 tenacity >=6.2.0
 plotly>=5,<6
 plotly_express
